@@ -3,7 +3,7 @@ package day2;
 /**
  * @author Rifki
  */
-public class segitigaBintang {
+public class BintangSegitiga {
 
     public static void main(String[] args) {
         System.out.println("BINTANG SEGITIGA SIKU");

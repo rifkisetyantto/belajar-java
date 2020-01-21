@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @author Rifki
  */
-public class arrayMultiDimensi {
+public class MultiDimensionArrays {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
