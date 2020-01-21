@@ -11,7 +11,7 @@ import java.util.Scanner;
  *         stasiun" 2. Tambah Stasiun 3. Ubah Stasiun 4. Hapus Stasiun 5. Keluar
  * 
  */
-public class menuStasiun {
+public class StasiunMenu {
 
     static Scanner in = new Scanner(System.in);
     static ArrayList<String> stasiun = new ArrayList<String>();
