@@ -17,7 +17,7 @@ import java.util.Scanner;
  * Jika belanja < 300rebu ga dapet diskon
  * 
  */
-public class StrukPembayaran {
+public class Struk_Pembayaran {
 
     public static void main(String[] args) {
         int totalBelanja = 0;

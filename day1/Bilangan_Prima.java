@@ -6,7 +6,7 @@ package day1;
  * membuat program bilangan prima dari 2 - 100 karna bilangan prima adalah bilangan asli yang lebih besar dari angka 1
  * yang faktor pembagiannya adalah 1 dan bilangan itu sendiri.
  */
-public class BilanganPrima {
+public class Bilangan_Prima {
 
     public static void main(String[] args) {
         int batas = 100; //inisialisasi variable 'batas' dengan nilai = 100
