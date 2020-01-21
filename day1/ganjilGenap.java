@@ -22,7 +22,11 @@ public class ganjilGenap {
      System.out.println("================================");
      for (int i = 1; i <= 100; i++) {
          if (i%2 == 0) {
-             System.out.print(i+", ");
+             if (i==100) {
+                 System.out.println(i);
+             } else{
+                 System.out.print(i+", ");
+             }
          }
      }
      System.out.println();
@@ -31,9 +35,13 @@ public class ganjilGenap {
      System.out.println("================================");
      for (int i = 1; i <= 100; i++) {
          if (i%2 != 0) {
-             System.out.print(i+", ");
+            if (i==99) {
+                System.out.println(i);
+            } else{
+                System.out.print(i+", ");
+            }
          }
      }
-     
+     in.close();
     }
 }
