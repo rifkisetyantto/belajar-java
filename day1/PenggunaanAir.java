@@ -16,7 +16,7 @@ Total				        = 85000
 Buatlah konisi yang menerima total pemakaian air dan mengeluarkan nilai yang perlu dibayar. 
 
  */
-public class Penggunaan_Air {
+public class PenggunaanAir {
 
     public static void main(String[] args) {
         int a, b ;

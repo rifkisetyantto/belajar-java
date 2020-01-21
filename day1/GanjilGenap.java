@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @author Rifki
  */
-public class Ganjil_Genap {
+public class GanjilGenap {
     public static void main(String[] args) {
      Scanner in = new Scanner(System.in);
      System.out.print("Masukan bilangan : ");
